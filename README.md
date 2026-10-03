@@ -64,34 +64,87 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,aws,linux,githubactions" />
 </p>
----
-
-# 🚀 Featured Projects
-
-## 🛒 NexaPOS
-
-A modern Point of Sale system designed for managing products, inventory, billing and customers.
-
-**Tech Stack**
-
-`React` `TypeScript` `Tailwind CSS` `Vite`
-
-🔗 **Repository:**  
-https://github.com/Eshan2004guna/NexaPOS
-
----
 
 
-## 🌱 AgroLink
+<h2 align="center">🚀 Featured Projects</h2>
 
-A digital agriculture platform designed to connect farmers with useful agricultural services and information.
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-**Tech Stack**
+<h3 align="center">🛒 NexaPOS</h3>
 
-`Spring Boot` `MySQL` `Angular/React` `JWT`
+<p align="center">
+Modern Point of Sale system for products, inventory, billing and customers.
+</p>
 
-🔗 **Repository:**  
-https://github.com/Eshan2004guna/agrilink
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite" />
+</p>
+
+<p align="center">
+<a href="https://github.com/Eshan2004guna/NexaPOS">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🚛 FleetPro</h3>
+
+<p align="center">
+Fleet management desktop application for vehicles, drivers and fleet operations.
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cs,dotnet,mysql" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/C%23-.NET%20WPF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🌱 AgroLink</h3>
+
+<p align="center">
+Agriculture platform connecting farmers with digital services and information.
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=spring,mysql,angular" />
+</p>
+
+<p align="center">
+<a href="https://github.com/Eshan2004guna/agrilink">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">💡 More Projects</h3>
+
+<p align="center">
+I'm continuously building and experimenting with new technologies.
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,react,cs,dotnet" />
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
