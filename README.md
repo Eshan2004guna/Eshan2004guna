@@ -238,25 +238,6 @@ I'm continuously building and experimenting with new technologies.
 
 </div>
 
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Eshan2004guna&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Eshan2004guna&theme=tokyo-night&hide_border=true" />
-
-</div>
 
 ---
 
