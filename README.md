@@ -33,40 +33,37 @@
 
 ---
 
-# 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
-### 💻 Programming Languages
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,cs,js,ts,html,css" />
-
-</p>
-
-### ⚙️ Frameworks & Libraries
+<h3 align="center">💻 Languages</h3>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=spring,react,angular,dotnet,tailwind,vite" />
-
+  <img src="https://skillicons.dev/icons?i=java,cs,js,ts,html,css" />
 </p>
 
-### 🗄️ Databases
+<h3 align="center">⚙️ Frameworks & Libraries</h3>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,mssql" />
-
+  <img src="https://skillicons.dev/icons?i=spring,react,angular,dotnet,tailwind,vite" />
 </p>
 
-### 🔧 Tools & Technologies
+<h3 align="center">🗄️ Databases</h3>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,figma" />
-
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
+<h3 align="center">🔧 Tools</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,figma" />
+</p>
+
+<h3 align="center">☁️ Currently Exploring</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,aws,linux,githubactions" />
+</p>
 ---
 
 # 🚀 Featured Projects
