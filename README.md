@@ -12,24 +12,94 @@
 
 ---
 
-## 🚀 About Me
+<h2 align="center">👨‍💻 About Me</h2>
 
-🎓 I'm an **IT Undergraduate** passionate about software development and modern technologies.
+<p align="center">
+  I'm an IT Undergraduate passionate about software development,
+  full-stack applications and building practical solutions.
+</p>
 
-💻 I enjoy building **full-stack applications**, desktop applications, APIs and real-world software solutions.
+<p align="center">
+  💻 Full-Stack Development &nbsp; • &nbsp;
+  ☕ Java & Spring Boot &nbsp; • &nbsp;
+  ⚛️ React & TypeScript &nbsp; • &nbsp;
+  💎 C# & .NET
+</p>
 
-🌱 Currently learning and improving my skills in:
+<br>
 
-- ☕ Java & Spring Boot
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 What I'm Building
+
+- 🛒 **NexaPOS** — Modern POS system
+- 🚛 **FleetPro** — Fleet management system
+- 🌱 **AgroLink** — Agriculture platform
+- 🔐 Secure REST APIs & authentication
+- 🗄️ Database-driven applications
+- 🎨 Modern and responsive user interfaces
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌱 Currently Learning
+
+- ☕ Advanced Java & Spring Boot
 - ⚛️ React & TypeScript
-- 🅰️ Angular
-- 💎 C# & .NET
-- 🗄️ MySQL & SQL Server
-- 🌐 REST APIs
-- 🔐 Authentication & JWT
-- 🔧 Git & GitHub
+- 💎 Advanced C# & .NET
+- 🐳 Docker & containerization
+- ☁️ Cloud technologies
+- 🔄 CI/CD & GitHub Actions
+- 🏗️ Software architecture & design patterns
 
-🎯 My goal is to continuously build real-world projects and become a strong software engineer.
+</td>
+</tr>
+</table>
+
+<h2 align="center">🎯 My Developer Journey</h2>
+
+<p align="center">
+
+🔹 Build real-world software  
+<br>
+🔹 Improve problem-solving skills  
+<br>
+🔹 Learn modern development practices  
+<br>
+🔹 Contribute to open-source projects  
+<br>
+🔹 Build a strong software engineering portfolio  
+
+</p>
+
+<h2 align="center">⚡ Developer Mode</h2>
+
+<p align="center">
+
+💡 Learn → 💻 Code → 🚀 Build → 🔄 Improve
+
+</p>
+
+<h2 align="center">💙 Things I Enjoy</h2>
+
+<p align="center">
+
+💻 Coding &nbsp; • &nbsp;
+🚀 Building Projects &nbsp; • &nbsp;
+🎨 UI/UX Design &nbsp; • &nbsp;
+🧠 Problem Solving
+
+<br><br>
+
+☕ Java &nbsp; • &nbsp;
+⚛️ React &nbsp; • &nbsp;
+💎 C# &nbsp; • &nbsp;
+🌐 Web Development
+
+</p>
 
 ---
 
