@@ -1,14 +1,12 @@
 <div align="center">
 
-# 👋 Hey, I'm Eshan Guna
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2FF7,100:FF00FF&height=220&section=header&text=Eshan%20Gunawardana&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
-### 💻 IT Undergraduate | Full-Stack Developer | Tech Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=IT+Undergraduate;Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+React;C%23+%7C+.NET+%7C+MySQL;Building+Real-World+Projects" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+React;C%23+%7C+.NET+%7C+MySQL;Building+Projects+%26+Learning+Every+Day" />
+<br><br>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Eshan2004guna&label=Profile%20Views&color=00f7ff&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Eshan2004guna&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
 
 </div>
 
@@ -86,15 +84,6 @@ https://github.com/Eshan2004guna/NexaPOS
 
 ---
 
-## 🚛 FleetPro
-
-A fleet management desktop application designed to manage vehicles, drivers, mechanics and fleet operations.
-
-**Tech Stack**
-
-`C#` `.NET` `WPF` `SQL Server`
-
----
 
 ## 🌱 AgroLink
 
@@ -155,7 +144,7 @@ https://github.com/Eshan2004guna/agrilink
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Eshan2004guna/Eshan2004guna/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/Eshan2004guna/Eshan2004guna/gh-pages/github-contribution-grid-snake.svg" />
 
 </div>
 
